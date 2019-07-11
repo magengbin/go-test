@@ -1,3 +1,3 @@
-module gitlab.futunn.com/golang/test
+module github.com/magengbin/test
 
 go 1.12
